@@ -225,3 +225,5 @@ Task 62
 prepare a notes on ddl and dml commands
 
 
+
+haiii
